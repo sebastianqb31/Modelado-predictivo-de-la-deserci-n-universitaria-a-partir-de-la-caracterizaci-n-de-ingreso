@@ -5,7 +5,7 @@
 ## Resumen del Proyecto
 Este proyecto utiliza técnicas de **Machine Learning** para predecir la deserción estudiantil a partir de una caracterización de ingreso. El objetivo es proporcionar una herramienta de decisión estratégica que optimice los recursos institucionales para generar una focalización más eficiente.
 
-## 📑 Índice del cuadernillo
+## Índice del cuadernillo
 El desarrollo técnico paso a paso se encuentra en el archivo Jupyter Notebook principal, estructurado de la siguiente manera:
 
 * Reporte de cambios efectuados frente a la configuración base
