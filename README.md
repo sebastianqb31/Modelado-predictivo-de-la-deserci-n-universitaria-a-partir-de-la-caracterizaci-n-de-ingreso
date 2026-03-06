@@ -40,7 +40,7 @@ El modelo LASSO permitió identificar variables críticas que aumentan la probab
 Se validó una estrategia de intervención limitada al **30% de la muestra** con mayor probabilidad de riesgo, lo cual permitió capturar el 46,2 % de los desertores. 
 
 ## Tecnologías Utilizadas
-* **Entorno de Desarrollo:** Google Colab / Jupyter Notebook
+* **Entorno de desarrollo:** Google Colab / Jupyter Notebook
 * **Lenguaje:** Python 3.x
 * **Librerías:** Pandas, Scikit-Learn, Matplotlib, Seaborn.
 
