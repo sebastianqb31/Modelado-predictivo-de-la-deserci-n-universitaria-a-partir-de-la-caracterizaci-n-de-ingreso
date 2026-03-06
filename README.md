@@ -37,7 +37,7 @@ El desarrollo técnico paso a paso se encuentra en el archivo Jupyter Notebook p
 El modelo LASSO permitió identificar variables críticas que aumentan la probabilidad de abandono, tales como el origen territorial, el género y el capital económico y educativo familiar. 
 
 ## Evaluación de deciles de probabilidad
-Se validó una estrategia de intervención limitada al **30% de la muestra** con mayor probabilidad de riesgo, obteniendo los siguientes resultados:
+Se validó una estrategia de intervención limitada al **30% de la muestra** con mayor probabilidad de riesgo, lo cual permitió capturar el 46,2 % de los desertores. 
 
 ## Tecnologías Utilizadas
 * **Entorno de Desarrollo:** Google Colab / Jupyter Notebook
