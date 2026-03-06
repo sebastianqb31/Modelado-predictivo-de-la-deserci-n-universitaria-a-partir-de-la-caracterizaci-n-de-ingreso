@@ -2,7 +2,7 @@
 
 ---
 
-## Resumen del Proyecto
+## Resumen del proyecto
 Este proyecto utiliza técnicas de **Machine Learning** para predecir la deserción estudiantil a partir de una caracterización de ingreso. El objetivo es proporcionar una herramienta de decisión estratégica que optimice los recursos institucionales para generar una focalización más eficiente.
 
 ## Índice del cuadernillo
