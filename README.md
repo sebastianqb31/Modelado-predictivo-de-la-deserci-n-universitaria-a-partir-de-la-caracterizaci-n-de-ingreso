@@ -26,7 +26,7 @@ El desarrollo técnico paso a paso se encuentra en el archivo Jupyter Notebook p
 * Curvas de aprendizaje
 * Interpretación conjunta de métricas y gráficas
 * Coeficientes del modelo de regresión logística con penalización LASSO
-* Generación de Score Card completo con el conjunto de prueba (deciles de probabilidad) 
+* Generación de Score Card completo con el conjunto de prueba
 * Resumen por decil
 * Curva de ganancia
 * Sensibilidad y precisión del modelo tras usar Score Card
@@ -40,8 +40,9 @@ El modelo LASSO permitió identificar variables críticas que aumentan la probab
 Se validó una estrategia de intervención limitada al **30% de la muestra** con mayor probabilidad de riesgo, obteniendo los siguientes resultados:
 
 ## Tecnologías Utilizadas
+**Entorno de Desarrollo:** Google Colab / Jupyter Notebook
 * **Lenguaje:** Python 3.x
 * **Librerías:** Pandas, Scikit-Learn, Matplotlib, Seaborn.
-* **Algoritmo:** Regresión Logística con penalización L1 (LASSO).
+
 
 ---
